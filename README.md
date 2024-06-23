@@ -21,6 +21,7 @@ The primary objectives of this E-Commerce Sales Analysis project are:
 - Analyze total stock by product size to ensure optimal stock levels across all sizes.
 
 
+
 ### Expected Outcomes:
 - __Product Quantity Order Status Insights:__ Detailed insights into Amazon's order pattern by product quantity, fulfillment efficiency, and areas for improvement.
 - __Sales Performance Reports:__ Comprehensive reports on sales performance by order status, aiding in understanding sales fulfilment patterns.
@@ -67,6 +68,8 @@ This project aims to bridge the gap between raw sales data and strategic busines
         4. Filters
         5. Tooltips
         6. Buttons
+
+
 
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
