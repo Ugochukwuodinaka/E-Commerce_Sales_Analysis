@@ -40,3 +40,34 @@ The findings from this project will enable retailers and digital marketers to:
 
 
 This project aims to bridge the gap between raw sales data and strategic business decisions, providing valuable insights that can drive growth and success in the competitive e-commerce market.
+
+
+
+### Skills Utilized
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualiziation
+4. Descriptive Analytics
+5. Critical Thinking and Problem Solving
+6. Communication and Reporting
+
+### Tools Used
+1. MySQL
+    - Was used to:
+        1. Extract,
+        2. Clean,
+        3. Transform,
+        4. Load all the datasets for this analysis.
+     
+2. Tableau (Was used to create dashboards for this analysis)
+    - The following Tableau were incorporated:
+        1. Calculated Fields
+        2. Geospatial Analysis
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Buttons
+
+
+### Data Cleaning, Transformation and Loading using MS Sql Server:
+1. Changed all data types of the fields in the __"consumers"__ table to the right data types.
