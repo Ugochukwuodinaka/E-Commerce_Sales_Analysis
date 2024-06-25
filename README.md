@@ -51,13 +51,13 @@ Below is a table that describes all the fields in all the tables in this dataset
 |:-----------------------------------|:------------------------ |:-------------------------------------- |
 |Cloud Warehouse Compersion Chart    | Shiprocket               | Contains data related to the profitability of e-commece sales throgh shiprocket    |
 |                                    | INCREFF                  | Contains data related to the profitability of e-commerce sales through INCREFF     |
-|Sales Report                        | SKU Code                 | Unique identifier for each product         |
+|Sales_Report                        | SKU Code                 | Unique identifier for each product         |
 |                                    | Design No                | Unique identifier for each design         |
 |                                    | Stock                    | Number of items in stock        |
 |                                    | Category                 | Type of product         |
 |                                    | Size                     | Size of product        |
 |                                    | Color                    | Color of product         |
-|P & L March 2021                    | Category                 | Type of product         |
+|P_&_L_March_2021                    | Category                 | Type of product         |
 |                                    | SKU                      | Unique identifier for each product         |
 |                                    | Catelog                  | Category of product        |
 |                                    | Weight                   | Weight of product         |
@@ -85,7 +85,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                                    | Paytm MRP                | Price of the product on Paytm       |
 |                                    | Snapdeal MRP             | Price of the product on Snapdeal         |
 |                                    | TP1 & TP2 MRP Old        | Original price of the product           |
-|Amazon Sale Report                  | Category                 | Type of product       |
+|Amazon_Sale_Report                  | Category                 | Type of product       |
 |                                    | Size                     | Size of product         |
 |                                    | Date                     | Date of the sale           |
 |                                    | Status                   | Status of the sale       |
@@ -98,7 +98,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                                    | Amount                   | Amount of the sale         |
 |                                    | B2B                      | Business to business sale           |
 |                                    | Currency                 | The currency used for the sale       |
-|International Sale Report           | Style                    | Style of the product           |
+|International_Sale_Report           | Style                    | Style of the product           |
 |                                    | SKU                      | Stock Keeping Unit       |
 |                                    | Size                     | Size of product         |
 |                                    | Date                     | Date of the sale           |
@@ -107,7 +107,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                                    | PCS                      | Number of pieces sold           |
 |                                    | Rate                     | Rate per piece         |
 |                                    | GROSS AMT                | Total amount of sales           |
-|Expense IGF                         | Received Amount          | The total amount of money received from sales           |
+|Expense_IGF                         | Received Amount          | The total amount of money received from sales           |
 
 
 
