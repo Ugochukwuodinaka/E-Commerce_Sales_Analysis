@@ -39,9 +39,11 @@ The findings from this project will enable retailers and digital marketers to:
 - Make data-driven decisions to enhance profitability.
 - Understand market dynamics and consumer behavior in the Indian e-commerce space.
 
-
 This project aims to bridge the gap between raw sales data and strategic business decisions, providing valuable insights that can drive growth and success in the competitive e-commerce market.
 
+
+### About The Dataset
+This dataset provides a comprehensive overview of e-commerce sales data from different channels covering a variety of products.The dataset also provides an in-depth look at the profitability of e-commerce sales. It contains data on a variety of sales channels, including Shiprocket and INCREFF, as well as financial information on related expenses and profits. The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors. In addition to this we have included the MRPs across multiple stores like Ajio MRP, Amazon MRP, Amazon FBA MRP, Flipkart MRP, Limeroad MRP Myntra MRP and PaytmMRP along with other key parameters like amount paid by customer for the purchase , rate per piece for every individual transaction Also we have added transactional parameters like Date of sale months category fulfilledby B2b Status Qty Currency Gross amt. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). This is a [link](raw_data) to access the raw data folder, and in this folder are some of the key tables. In this The data_dictionary table makes a description of all the fields in all the tables for a better understanding of them.
 
 
 ### Skills Utilized
