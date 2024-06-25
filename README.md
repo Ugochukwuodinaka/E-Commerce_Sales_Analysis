@@ -160,3 +160,14 @@ Sql Query Screenshot                                                            
 ![](images/MS_Sql_Server_Screenshot.png)    
 
 You can preview the MYSQL query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+
+
+
+
+## Visualization in Tableau:
+#### Report View 1
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
+
+#### Report View 2
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
+
