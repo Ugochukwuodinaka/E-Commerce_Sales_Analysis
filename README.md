@@ -166,8 +166,8 @@ You can preview the MYSQL query file [here](Mexican_Restaurant_Rating_Analysis_P
 
 ## Visualization in Tableau:
 #### Report View 1
-![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
+![](images/E-COMMERCE_SALES_ANALYSIS_1.png)
 
 #### Report View 2
-![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
+![](images/E-COMMERCE_SALES_ANALYSIS_2.png)
 
