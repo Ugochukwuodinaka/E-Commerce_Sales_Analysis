@@ -140,7 +140,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 
 
 
-### Data Cleaning, Transformation and Loading using MS Sql Server:
+### Data Cleaning, Transformation and Loading using MySQL:
 1. Made sure that all the data types of the tables in this datatset are of the right data type.
 2. Changed the data type of all the table columns with the wrong data type to the right data type.
 3. Replaced the null cells of the 'Amount' column of "Amazon Sale Rreport" table with "0".
