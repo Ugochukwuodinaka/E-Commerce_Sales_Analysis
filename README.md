@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis
-![](images/[E-Commerce%20Sales%20Analysis%20Photo.jpg])
+![](images/[E-Commerce%20Sales%20Analysis%20Photo.jpg)
 
 
 ## Project Overview
