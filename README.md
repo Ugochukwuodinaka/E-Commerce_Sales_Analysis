@@ -43,7 +43,73 @@ This project aims to bridge the gap between raw sales data and strategic busines
 
 
 ### About The Dataset
-This dataset provides a comprehensive overview of e-commerce sales data from different channels covering a variety of products.The dataset also provides an in-depth look at the profitability of e-commerce sales. It contains data on a variety of sales channels, including Shiprocket and INCREFF, as well as financial information on related expenses and profits. The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors. In addition to this we have included the MRPs across multiple stores like Ajio MRP, Amazon MRP, Amazon FBA MRP, Flipkart MRP, Limeroad MRP Myntra MRP and PaytmMRP along with other key parameters like amount paid by customer for the purchase , rate per piece for every individual transaction Also we have added transactional parameters like Date of sale months category fulfilledby B2b Status Qty Currency Gross amt. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). This is a [link](raw_data) to access the raw data folder, and in this folder are some of the key tables. In this The data_dictionary table makes a description of all the fields in all the tables for a better understanding of them.
+This dataset provides a comprehensive overview of e-commerce sales data from different channels covering a variety of products.The dataset also provides an in-depth look at the profitability of e-commerce sales. It contains data on a variety of sales channels, including Shiprocket and INCREFF, as well as financial information on related expenses and profits. The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors. In addition to this we have included the MRPs across multiple stores like Ajio MRP, Amazon MRP, Amazon FBA MRP, Flipkart MRP, Limeroad MRP Myntra MRP and PaytmMRP along with other key parameters like amount paid by customer for the purchase , rate per piece for every individual transaction Also we have added transactional parameters like Date of sale months category fulfilledby B2b Status Qty Currency Gross amt. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The 5 key tables that contains the raw dataset for this analysis has tables sizes of over 70mb, hence it was too large to upload to github. The data_dictionary table makes a description of all the fields in the key tables of this dataset for a better understanding of them.
+
+Below is a table that describes all the fields in all the tables in this dataset.
+
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|Cloud Warehouse Compersion Chart    | Shiprocket               | Contains data related to the profitability of e-commece sales throgh shiprocket    |
+|                                    | INCREFF                  | Contains data related to the profitability of e-commerce sales through INCREFF     |
+|Sales Report                        | SKU Code                 | Unique identifier for each product         |
+|                                    | Design No                | Unique identifier for each design         |
+|                                    | Stock                    | Number of items in stock        |
+|                                    | Category                 | Type of product         |
+|                                    | Size                     | Size of product        |
+|                                    | Color                    | Color of product         |
+|P & L March 2021                    | Category                 | Type of product         |
+|                                    | SKU                      | Unique identifier for each product         |
+|                                    | Catelog                  | Category of product        |
+|                                    | Weight                   | Weight of product         |
+|                                    | TP1                      | Price of the product on the first third-party platform        |
+|                                    | TP2                      | Price of the product on the second third-party platform        |
+|                                    | MRP Old                  | Original price of product         |
+|                                    | Final MRP                | Final price of product after discount       |
+|                                    | Ajio MRP                 | Price of the product on Ajio         |
+|                                    | Amazon FBA MRP           | Price of the product on Amazon FBA           |
+|                                    | Flipkart MRP             | Price of the product on Flipkart       |
+|                                    | Limeroad MRP             | Price of the product on Limeroad         |
+|                                    | Myntra MRP               | Price of the product on Myntra           |
+|                                    | Paytm MRP                | Price of the product on Paytm       |
+|                                    | Snapdeal MRP             | Price of the product on Snapdeal         |
+|May-2022                            | SKU                      | Unique identifier for each product         |
+|                                    | Catelog                  | Category of product        |
+|                                    | Weight                   | Weight of product         |
+|                                    | MRP Old                  | Original price of product         |
+|                                    | Final MRP Old            | Final price of product after discounts       |
+|                                    | Ajio MRP                 | Price of the product on Ajio         |
+|                                    | Amazon FBA MRP           | Price of the product on Amazon FBA           |
+|                                    | Flipkart MRP             | Price of the product on Flipkart       |
+|                                    | Limeroad MRP             | Price of the product on Limeroad         |
+|                                    | Myntra MRP               | Price of the product on Myntra           |
+|                                    | Paytm MRP                | Price of the product on Paytm       |
+|                                    | Snapdeal MRP             | Price of the product on Snapdeal         |
+|                                    | TP1 & TP2 MRP Old        | Original price of the product           |
+|Amazon Sale Report                  | Category                 | Type of product       |
+|                                    | Size                     | Size of product         |
+|                                    | Date                     | Date of the sale           |
+|                                    | Status                   | Status of the sale       |
+|                                    | Fulfilment               | Metho of fulfilment         |
+|                                    | Style                    | Style of the product           |
+|                                    | SKU                      | Stock Keeping Unit       |
+|                                    | ASIN                     | Amazon Standard Identification Number         |
+|                                    | Courier Status           | Status of the courier           |
+|                                    | Qty                      | Quanity of the product     |
+|                                    | Amount                   | Amount of the sale         |
+|                                    | B2B                      | Business to business sale           |
+|                                    | Currency                 | The currency used for the sale       |
+|International Sale Report           | Style                    | Style of the product           |
+|                                    | SKU                      | Stock Keeping Unit       |
+|                                    | Size                     | Size of product         |
+|                                    | Date                     | Date of the sale           |
+|                                    | Month                    | Month of the sale           |
+|                                    | Customer                 | Name of the customer         |
+|                                    | PCS                      | Number of pieces sold           |
+|                                    | Rate                     | Rate per piece         |
+|                                    | GROSS AMT                | Total amount of sales           |
+|Expense IGF                         | Received Amount          | The total amount of money received from sales           |
+
+
 
 
 ### Skills Utilized
