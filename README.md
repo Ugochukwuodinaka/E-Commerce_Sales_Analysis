@@ -199,4 +199,6 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Amazon's%20Sales%20By%20Order%20Status.png" width="250">
 - **Amazon's Sales By Order Status:**
-- In
+- In this analysis of Sales by Order Status, Amazon itself accounts for the majority of sales, totaling 54,322,151 units. In contrast, merchants selling through Amazon contribute significantly less, with 21,080,355 units.
+
+- Amazon's sales dominance, with over 54 million units, highlights its strong control over the e-commerce platform. The substantial sales by merchants, at over 21 million units, indicate the importance of third-party sellers to the overall sales volume. This balance showcases the effectiveness of Amazon's platform in supporting both direct sales and third-party merchants, suggesting that optimizing both channels could further enhance overall sales performance.
