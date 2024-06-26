@@ -186,8 +186,10 @@ From the analysis, i made the following Key findings below:
 - International Sales Pproducts is __4,597.__
 - The Number of Customers is __149.__
 - International Sales Revenue is __₹32,549,173.__
+-
 
 
-- <img src="images/Amazon's%20Order%20Status%20By%20Product%20Quantity.png" width="250">
+
+- <img src="images/Amazon's%20Order%20Status%20By%20Product%20Quantity.png" width="350">
 - **Consumer Rating By Budget:**
 - In this analysis of consumer ratings
