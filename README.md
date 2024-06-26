@@ -175,3 +175,19 @@ You can preview the MYSQL query file [here](E-Commerce_Sales_Analysis_Project.sq
 #### Report View 2
 ![](images/E-COMMERCE_SALES_ANALYSIS_2.png)
 
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- Amazon's Sales Category is __9.__
+- Amazon's Products is __7,195.__
+- Amazon's Total Order is __128,975.__
+- Amazon's Sales Revenue is __₹78,592,678.__
+- The Total Number of Stock is __242,386.__
+- International Sales Pproducts is __4,597.__
+- The Number of Customers is __149.__
+- International Sales Revenue is __₹32,549,173.__
+
+
+- <img src="images/Consumer_Rating_By_Budget.jpg" width="250">
+- **Consumer Rating By Budget:**
+- In this analysis of consumer ratings
