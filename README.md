@@ -192,7 +192,11 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Amazon's%20Order%20Status%20By%20Product%20Quantity.png" width="350">
 - **Amazon's Order Status By Product Quantity:**
-- Iin this analysis of Amazon's Order Status By Product Quantity, Shipped products has the highest quantity at 78,009 units, but only 28,886 have been confirmed as delivered, reflecting a 37% delivery rate. There are 5,657 cancellations and 1,970 returns to the seller. Additionally, 977 units have been picked up, 657 are pending, and 283 are pending pickup. Smaller numbers include 150 units returning to the seller, 35 out for delivery, 5 lost in transit, 1 damaged, and 8 currently shipping.
+- In this analysis of Amazon's Order Status By Product Quantity, Shipped products has the highest quantity at 78,009 units, but only 28,886 have been confirmed as delivered, reflecting a 37% delivery rate. There are 5,657 cancellations and 1,970 returns to the seller. Additionally, 977 units have been picked up, 657 are pending, and 283 are pending pickup. Smaller numbers include 150 units returning to the seller, 35 out for delivery, 5 lost in transit, 1 damaged, and 8 currently shipping.
 
 - The high shipment volume indicates strong order processing, but the gap between shipped and delivered items suggests potential delays. The 5,657 cancellations require investigation into possible causes. With 2,120 units being returned, understanding return reasons is essential for improving satisfaction. The 657 pending orders and 283 awaiting pickup may highlight processing inefficiencies. Minimal lost and damaged items indicate effective logistics, which is crucial to maintain. Lastly, the picked-up orders shows the importance of diverse delivery options, indicating that improvements could attract more customers.
 
+
+- <img src="images/Amazon's%20Sales%20By%20Order%20Status.png" width="250">
+- **Amazon's Sales By Order Status:**
+- In
