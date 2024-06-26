@@ -163,7 +163,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)    
 
-You can preview the MYSQL query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+You can preview the MYSQL query file [here](E-Commerce_Sales_Analysis_Project.sql)
 
 
 
