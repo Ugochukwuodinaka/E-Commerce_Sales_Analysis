@@ -188,6 +188,6 @@ From the analysis, i made the following Key findings below:
 - International Sales Revenue is __₹32,549,173.__
 
 
-- <img src="images/Consumer_Rating_By_Budget.jpg" width="250">
+- <img src="images/Amazon's%20Order%20Status%20By%20Product%20Quantity.png" width="250">
 - **Consumer Rating By Budget:**
 - In this analysis of consumer ratings
