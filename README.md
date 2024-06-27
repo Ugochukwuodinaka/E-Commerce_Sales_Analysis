@@ -220,6 +220,12 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Amazon's%20Revenue%20Trend%20By%20Product%20Category.png" width="500">
 - **Amazon's Revenue Trend By Product Category:**
-- The
+- This analysis provides revenue data by product category for Amazon from March to June 2022. In March, the "Set" category led with $53,884, followed by "Kurta" at $34,257. April saw a significant increase, with "Set" reaching $15,506,676 and "Kurta" at $8,017,145. Other categories like "Western Dress," "Top," and "Ethnic Dress" also saw substantial revenue increases. May and June continued to show high revenues for "Set" and "Kurta," but with a gradual decline. Categories like "Western Dress" and "Top" remained consistently high, while others like "Blouse," "Bottom," and "Saree" had lower revenues.
 
+- The "Set" and "Kurta" categories consistently generated the highest revenues, showing strong consumer demand. The notable revenue spike in April ,may be as a result of successful promotional activities or seasonal trends. While "Western Dress" and "Top" also performed well, the gradual decline in May and June emphasizes the need to sustain momentum. Lower revenue categories like "Blouse," "Bottom," and "Saree", and others suggest potential areas for growth. A deepr study of these trends can help Amazon sharpen inventory and marketing strategies which will help them capitalize on high-demand products and boost lower-performing categories.
 
+- <img src="images/International%20Sales%20Volume%20By%20Products%20Size.png" width="300">
+- **International Sales Volume By Product Size:**
+- Here, we analyzed the international sales volume for various product sizes. The size "L" leads with the highest sales volume at 1,535,590 units, followed by "M" with 1,403,778 units and "XL" with 1,265,062 units. The "S" and "XXL" sizes also have substantial sales volumes at 1,006,962 and 1,001,108 units, respectively. Sales volumes then decrease significantly for sizes "XXXL" (691,237 units) and "XS" (334,940 units). The "Free" size category has 125,703 units, while the larger sizes "5XL," "6XL," and "4XL" have the lowest sales volumes, with 24,664, 21,463, and 20,886 units, respectively.
+
+- The insght indicates a strong preference for standard sizes (L, M, XL, S, XXL) in international markets, reflecting a broad consumer base that primarily fits these sizes. The high sales volumes for these sizes suggest they are essential for maintaining a robust international sales strategy. The significantly lower sales for "XXXL," "XS," and larger sizes (5XL, 6XL, 4XL) suggest these sizes cater to niche markets. The "Free" size category, with moderate sales, might indicate products that do not conform to standard sizing but still have a market.
