@@ -4,7 +4,7 @@
 
 ## Project Overview
 ### Introduction:
-The E-Commerce Sales Analysis project is designed to offer a detailed examination of the profitability and performance of e-commerce sales within the Indian market. This analysis focuses on data collected from various sales channels over a four-month period, from March 2022 to June 2022, encompassing a wide range of products. Using the outcome of this analysis project, retailers and digital marketers can measure the performance of their campaigns more accurately and efficiently.
+The E-Commerce Sales Analysis project is designed to offer a detailed examination of the profitability and performance of e-commerce sales within the Indian market. This analysis focuses on data collected from various sales channels like Amazon and other channels over a four-month period, from March 2022 to June 2022, encompassing a wide range of products. Using the outcome of this analysis project, retailers and digital marketers can measure the performance of their campaigns more accurately and efficiently.
 
 
 ## Objectives:
@@ -229,3 +229,15 @@ From the analysis, i made the following Key findings below:
 - Here, we analyzed the international sales volume for various product sizes. The size "L" leads with the highest sales volume at 1,535,590 units, followed by "M" with 1,403,778 units and "XL" with 1,265,062 units. The "S" and "XXL" sizes also have substantial sales volumes at 1,006,962 and 1,001,108 units, respectively. Sales volumes then decrease significantly for sizes "XXXL" (691,237 units) and "XS" (334,940 units). The "Free" size category has 125,703 units, while the larger sizes "5XL," "6XL," and "4XL" have the lowest sales volumes, with 24,664, 21,463, and 20,886 units, respectively.
 
 - The insght indicates a strong preference for standard sizes (L, M, XL, S, XXL) in international markets, reflecting a broad consumer base that primarily fits these sizes. The high sales volumes for these sizes suggest they are essential for maintaining a robust international sales strategy. The significantly lower sales for "XXXL," "XS," and larger sizes (5XL, 6XL, 4XL) suggest these sizes cater to niche markets. The "Free" size category, with moderate sales, might indicate products that do not conform to standard sizing but still have a market.
+
+
+- <img src="images/Top%2010%20Customers%20By%20Order%20Value%20%26%20Quantity.png" width="300">
+- **Top 10 Customers By Value and Quantity:**
+- This analysis is on the top 10 customers by order value and quantity. Mullberries Boutique leads with the highest order value of $1,081,537 and a quantity of 1,228 items. Amani Concept Trading LLC follows with an order value of $505,797 for 1,032 items. Rivaan LLC and Sure Fashions LLC have similar quantities (667 each) but different order values of $443,042 and $382,054, respectively. Cotton Closet Ltd, Vaharsha Boutique, and Galaxy Group of Companies PVT Ltd show decreasing order values and quantities. Visha Devan and Nirusah Tailoring have the lowest order values and quantities among the top 10, with order values of $160,514 and $158,235 and quantities of 237 and 284, respectively.
+
+- Mullberries Boutique is the most significant customer in terms of both order value and quantity, showing their significant impact on sales. Amani Concept Trading LLC also shows high business activity, emphasizing their importance. Rivaan LLC and Sure Fashions LLC have similar quantities but differing order values, suggesting a difference in the average price per item ordered. The lower order values and quantities among the top 10 for Cotton Closet Ltd, Vaharsha Boutique, and others indicate a diverse customer base with varying purchasing behaviors.
+
+
+- <img src="images/Top%2010%20Stock%20By%20Product%20Category.png" width="300">
+- **Top 10 Stock By Product Category:**
+- In this analysis, we looked into the top 10 stock quantities by product category. "Kurta" has the highest stock quantity at 114,339 units, followed by "Kurta Set" with 47,684 units. "Set" has 24,643 units in stock, while "Top" and "Dress" have 16,609 and 11,575 units, respectively. "Blouse" has a stock quantity of 7,932 units. Categories like "Pant," "Night Wear," "Tunic," and "Saree" have lower stock quantities, with "Pant" at 3,436 units, "Night Wear" at 3,288 units, "Tunic" at 2,967 units, and "Saree" at 2,777 units.
