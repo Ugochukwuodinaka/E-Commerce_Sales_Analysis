@@ -242,6 +242,7 @@ From the analysis, i made the following Key findings below:
 - **Top 10 Stock By Product Category:**
 - In this analysis, we looked into the top 10 stock quantities by product category. "Kurta" has the highest stock quantity at 114,339 units, followed by "Kurta Set" with 47,684 units. "Set" has 24,643 units in stock, while "Top" and "Dress" have 16,609 and 11,575 units, respectively. "Blouse" has a stock quantity of 7,932 units. Categories like "Pant," "Night Wear," "Tunic," and "Saree" have lower stock quantities, with "Pant" at 3,436 units, "Night Wear" at 3,288 units, "Tunic" at 2,967 units, and "Saree" at 2,777 units.
 
+- The significantly high stock quantity of "Kurta" indicates it is a staple product with consistent demand, necessitating a larger inventory. The "Kurta Set" also shows strong inventory levels, showing its popularity as a bundled product. The "Set" category, while having lower stock than "Kurta," still represents a significant inventory portion, indicating steady demand. Lower stock quantities in categories like "Pant," "Night Wear," "Tunic," and "Saree" among the top 10 stock suggest either lower demand or a strategy to keep leaner inventories for these items. 
 
 ## Tableau Visualization Dashboard:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/E-COMMERCESALESANALYSIS_17053068390610/Dashboard1)
