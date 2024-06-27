@@ -242,8 +242,17 @@ From the analysis, i made the following Key findings below:
 - **Top 10 Stock By Product Category:**
 - In this analysis, we looked into the top 10 stock quantities by product category. "Kurta" has the highest stock quantity at 114,339 units, followed by "Kurta Set" with 47,684 units. "Set" has 24,643 units in stock, while "Top" and "Dress" have 16,609 and 11,575 units, respectively. "Blouse" has a stock quantity of 7,932 units. Categories like "Pant," "Night Wear," "Tunic," and "Saree" have lower stock quantities, with "Pant" at 3,436 units, "Night Wear" at 3,288 units, "Tunic" at 2,967 units, and "Saree" at 2,777 units.
 
-- The significantly high stock quantity of "Kurta" indicates it is a staple product with consistent demand, necessitating a larger inventory. The "Kurta Set" also shows strong inventory levels, showing its popularity as a bundled product. The "Set" category, while having lower stock than "Kurta," still represents a significant inventory portion, indicating steady demand. Lower stock quantities in categories like "Pant," "Night Wear," "Tunic," and "Saree" among the top 10 stock suggest either lower demand or a strategy to keep leaner inventories for these items. 
+- The significantly high stock quantity of "Kurta" indicates it is a staple product with consistent demand, necessitating a larger inventory. The "Kurta Set" also shows strong inventory levels, showing its popularity as a bundled product. The "Set" category, while having lower stock than "Kurta," still represents a significant inventory portion, indicating steady demand. Lower stock quantities in categories like "Pant," "Night Wear," "Tunic," and "Saree" among the top 10 stock suggest either lower demand or a strategy to keep leaner inventories for these items.
 
+
+- <img src="images/Total%20Stock%20By%20Product%20Size.png" width="300">
+- **Top 10 Stock By Product Size:**
+- This analysis shows the total stock quantities by product size. The size "S" has the highest stock at 40,323 units, followed by "M" with 36,065 units and "XS" with 34,246 units. The sizes "L," "XL," and "XXL" have slightly lower stock quantities at 31,904, 31,003, and 29,554 units, respectively. The "XXXL" size has a stock quantity of 21,064 units. The "Free" size has a significantly lower stock of 7,841 units, while larger sizes like "6XL," "5XL," and "4XL" have the least stock, with 1,111, 1,061, and 978 units, respectively.
+
+- The high stock levels for sizes "S," "M," and "XS" shoes strong demand for these sizes, reflecting a broad customer base. The substantial stock for sizes "L," "XL," and "XXL" suggests a good balance in catering to diverse size preferences. The lower stock for "XXXL" and "Free" sizes may indicate specialized market preferences or less frequent demand. The minimal stock for larger sizes "6XL," "5XL," and "4XL" suggests these sizes have limited demand or are kept in smaller quantities to avoid overstocking. This distribution highlights the importance of maintaining ample inventory for popular sizes while managing smaller quantities for less common sizes to optimize inventory and meet customer demand effectively.
+
+
+  
 ## Tableau Visualization Dashboard:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/E-COMMERCESALESANALYSIS_17053068390610/Dashboard1)
 
