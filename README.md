@@ -213,4 +213,13 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Amazon's%20Revenue%20Trend%20By%20Month.png" width="400">
 - **Amazon's Revenue Trend By Month:**
-- This 
+- The analysis provides Amazon's monthly revenue data for March to June 2022. In March 2022, revenue was relatively low at 101,687 units. April 2022 saw a significant spike in revenue, reaching 28,838,708 units. In May 2022, revenue slightly decreased to 26,226,477 units. By June 2022, revenue further declined to 23,425,809 units.
+
+- The notable increase in revenue from March to April may be as a result of a successful marketing campaign, product launch, or seasonal demand surge. The subsequent decrease in May and June indicates a possible stabilization after the peak in April. This trend may highligh the importance of sustaining promotional activities and leveraging factors that drove the April surge. It may be suggested that to maintain revenue growth, Amazon should analyze the causes of the April peak and address the factors contributing to the decline in subsequent months. 
+
+
+- <img src="images/Amazon's%20Revenue%20Trend%20By%20Product%20Category.png" width="450">
+- **Amazon's Revenue Trend By Product Category:**
+- The
+
+
