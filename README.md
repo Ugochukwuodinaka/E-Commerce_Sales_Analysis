@@ -1,6 +1,15 @@
 # E-Commerce Sales Analysis
 ![](images/E-Commerce%20Sales%20Analysis%20Photo.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Tableau](#visualization-in-tableau)
+- [Project Analysis](#project-analysis)
+- [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
+- [Recommendations on How To Improve the E-Commerce Sales Channel In These Business Locations](#recommendations-on-how-to-improve-the-e-commerce-sales-channel-in-these-business-locations)
+
 
 ## Project Overview
 ### Introduction:
@@ -253,11 +262,11 @@ From the analysis, i made the following Key findings below:
 
 
   
-## Tableau Visualization Dashboard:
+## Tableau Dashboard Visualization:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/E-COMMERCESALESANALYSIS_17053068390610/Dashboard1)
 
 
-## Recommendations on How To Improve the E-Commerce Sales In These Sales Locations
+## Recommendations on How To Improve the E-Commerce Sales Channel In These Business Locations
 __Optimize Inventory Management:__ Ensure that high-demand sizes like "S," "M," and "XS," as well as popular product categories such as "Kurta" and "Kurta Set," are sufficiently stocked to meet customer demand. Utilize sales data to forecast demand more accurately and adjust inventory levels accordingly to avoid stockouts and overstock situations.
 
 __Targeted Marketing Campaigns:__ Develop marketing strategies focused on top-performing product categories and sizes. Use insights from high-value customers like Mullberries Boutique and Amani Concept Trading LLC to create personalized promotions and loyalty programs. This can enhance customer retention and encourage repeat purchases.
