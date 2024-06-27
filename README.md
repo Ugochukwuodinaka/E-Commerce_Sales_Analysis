@@ -209,3 +209,8 @@ From the analysis, i made the following Key findings below:
 - This analysis presents sales figures for Amazon's e-commerce platform segmented by product size. The medium (M) size has the highest sales with 20,447 units, followed closely by large (L) with 20,000 units. Extra-large (XL) and double extra-large (XXL) sizes follow with 18,923 and 16,516 units, respectively. Small (S) size sales are also substantial at 16,331 units. The sales figures gradually decrease for sizes 3XL (13,524 units), XS (9,943 units), 6XL (688 units), 5XL (513 units), 4XL (398 units), and products marked as "Free" (366 units).
 
 - The data reveals a strong preference for medium and large sizes, which collectively account for a significant portion of total sales. This shows a higher demand for these sizes among consumers. Extra-large and double extra-large sizes also show considerable sales, showcasing a substantial market for larger sizes. Smaller and extremely large sizes (XS, 5XL, 6XL) have lower sales figures, which could indicate a niche market. The "Free" size category, with the lowest sales, might represent products that don't conform to standard sizing.
+
+
+- <img src="images/Amazon's%20Revenue%20Trend%20By%20Month.png" width="400">
+- **Amazon's Revenue Trend By Month:**
+- This 
