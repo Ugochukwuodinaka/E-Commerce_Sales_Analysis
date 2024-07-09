@@ -298,3 +298,4 @@ __Improve Supply Chain Efficiency:__ Streamline logistics to reduce lead times a
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_You.jpg)
