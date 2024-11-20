@@ -276,7 +276,7 @@ From the analysis, i made the following Key findings below:
 <br />
   
 ## Tableau Dashboard Visualization:
-You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/E-COMMERCESALESANALYSIS_17053068390610/Dashboard1)
+You can view and interact with this dashboard [here](https://public.tableau.com/app/profile/ugo.bruno/viz/E-COMMERCESALESANALYSIS_17053068390610/Dashboard1)
 <br />
 <br />
 
